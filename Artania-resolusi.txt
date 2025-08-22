@@ -3,4 +3,4 @@ Artania Resolusi
 - Membuat data Excel
 - Mebuat datanya Rapi
 - Membuat Farm Lobster
-- Kolab dengan berbagai farm
+- Buat Grup
